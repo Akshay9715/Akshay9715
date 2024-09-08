@@ -1,8 +1,8 @@
-[![MasterHead](https://www.mygreatlearning.com/blog/wp-content/uploads/2021/05/iStock-1162261415-1.jpg)]
+
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India.</h3>
 
-img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?rs=1&pid=ImgDetMain"
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?rs=1&pid=ImgDetMain">
 
 <p align="left"> <a href="https://twitter.com/akshayc14486242" target="blank"><img src="https://img.shields.io/twitter/follow/akshayc14486242?logo=twitter&style=for-the-badge" alt="akshayc14486242" /></a> </p>
 
