@@ -8,9 +8,8 @@
 - 🎓 I'm a **B.Tech Biotechnology student at NIT Rourkela** passionate about building intelligent systems that solve real-world problems.  
 - 💻 I specialize in **Backend Development (Django, FastAPI)** and **AI/ML (PyTorch, Scikit-learn, Deep Learning)**.  
 - 🧩 I actively contribute to **open-source projects**, including **Pylint**, where multiple of my pull requests have been merged.  
-- 🏆 Recently earned **GitHub badges**:
-  - 🦈 *Pull Shark* – Merged pull requests in major open-source repos  
-  - 🤝 *Pair Extraordinaire* – Coauthored commits with core maintainers  
+  * Merged pull requests in major open-source repos  
+  * Coauthored commits with core maintainers  
 - 🧩 Interests: Software engineering, AI research, compiler tooling, and real-time systems.  
 - 📫 Reach me at **akshaychoudhary2040@gmail.com**
 
